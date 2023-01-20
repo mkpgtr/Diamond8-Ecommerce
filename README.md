@@ -88,6 +88,8 @@
 
 # The hero section
 
+1. The hero section is something that I am really proud of. I had never thought I would build such an elegant design. I am really impressed with the way it all came about so beautifully.
+
 
 # All pages are responsive
 
